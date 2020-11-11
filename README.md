@@ -36,7 +36,7 @@ Note: Once the application has been created within ConfigMgr, the script will ex
 * .\Exports
   * Feature Update - Inventory OSVersionHistory and SetupDiag_<CI_ID>.cab
   * Feature Update - No Logged On User Failure_<CI_ID>.cab
-  * Exports\Feature Update - Scripts and Files Are Present_<CI_ID>.cab
+  * Feature Update - Scripts and Files Are Present_<CI_ID>.cab
 
 ### In ConfigMgr
 * \Software Library\Overview\Application Management\Applications
